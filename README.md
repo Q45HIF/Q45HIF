@@ -12,7 +12,7 @@ var kashif = {
   interests: ["Tech", "Games"],
   email: "km4883458@gmail.com",
 };
-// used let instead of const because I am forever learning and growing :)
+// used var instead of const because I am forever learning and growing :)
 ```
 
 <h3 align="left">Connect with me:</h3>
