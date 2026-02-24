@@ -27,9 +27,9 @@ var kashif = {
 	</a>
 </p>
 
-![Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
-<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Q45HIF/Q45HIF/output/pacman-contribution-graph-dark.svg">
+<!-- <picture>
+![Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Q45HIF/Q45HIF/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Q45HIF/Q45HIF/output/pacman-contribution-graph.svg">
 </picture> -->
